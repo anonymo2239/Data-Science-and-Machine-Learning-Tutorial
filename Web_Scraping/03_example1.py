@@ -11,7 +11,7 @@ soup = BeautifulSoup(content, 'lxml')
 # print(soup.prettify())  # cikti daha guzel gozuksun diye
 
 box = soup.find('article', class_='main-article')  # tag_name, class_name yaziyoruz.(cok onemli kullanim!!)
-# box sadece o <article class="main-article"> içindeki <h1> etiketini bulmamıza yardımcı oluyor.
+# box, o <article class="main-article"> içindeki etiketleri bulmamıza yardımcı oluyor. Bir nevi filtreleme gibi
 title = box.find('h1').get_text()
 # Eğer sayfada birden fazla <h1> varsa, yalnızca ilkini döndürürdü ve diğerlerini göz ardı ederdi.
 print(title)
