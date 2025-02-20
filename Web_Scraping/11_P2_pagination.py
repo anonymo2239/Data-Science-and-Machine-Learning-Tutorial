@@ -2,6 +2,8 @@ import chromedriver_autoinstaller
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 # Headless mode, tarayıcıyı görsel arayüz olmadan (arka planda) çalıştıran bir moddur.
 # Daha hızlı çalışır çünkü görsel öğeleri yüklemez.
@@ -29,8 +31,13 @@ book_author = []
 book_length = []
 
 while current_page <= last_page:
-    container = driver.find_element(By.XPATH, '/html/body/div[1]/div[5]/div[5]/div/'
-                                              'div[2]/div[4]/div/div/div/span[2]/ul')
+    # implicit(örtük, görünmeyen) weight
+    # time.sleep(2)
+
+    # explicit(açık, müstehcen) waiting
+    container = WebDriverWait(driver, 4).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[1]'
+                                                                                         '/div[5]/div[5]/div/div[2]/'
+                                                                                         'div[4]/div/div/div/span[2]/ul')))
     products = container.find_elements(By.XPATH, "./li")  # find_elements bir liste
     # döndürür ve loop ile listeyi gezeriz.
 
