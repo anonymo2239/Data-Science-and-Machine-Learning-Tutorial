@@ -9,7 +9,7 @@ class WorldometersSpider(scrapy.Spider):
 
     def parse(self, response):  # we get the respone here
         # title = response.xpath('//h1/text()').get()
-        countries = response.xpath('//td/a').getall()
+        countries = response.xpath('//td/a')
 
         for country in countries:
             country_name = country.xpath(".//text()").get()
@@ -17,9 +17,8 @@ class WorldometersSpider(scrapy.Spider):
 
             yield {  # yield veriyi döndürür ve devam eder.
                 'country_names': country_name,
-                'links': link
+                'links': link,
             }
             # Bu kodu çalıştırırken spider'ın olduğu dizinde olmalısın
             # scrapy crawl worldometers komutu ile bu spider çalıştırılır.
 
-            # HATAYI ÇÖZZ
