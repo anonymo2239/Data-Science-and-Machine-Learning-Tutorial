@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # Sunucuda çalıştırılabilir
 # options = Options()
 # options.add_argument("--headless")  # Burada aktif ediyoruz.
-# options.add_argument('window-size=1920x1080')  # zounlu degil eklenebilir
+# options.add_argument('window-size=1920x1080')  # zorunlu degil eklenebilir
 # simdilik kullanmaya gerek yok
 chromedriver_autoinstaller.install()
 

@@ -7,7 +7,7 @@ class WorldometersSpider(scrapy.Spider):
     allowed_domains = ["www.worldometers.info"]  # Burada sadece domain kısmı yazmalı
     start_urls = ["https://www.worldometers.info/world-population/population-by-country"]  # http yerine https
 
-    def parse(self, response):  # we get the respone here
+    def parse(self, response):  # we get the response here
         # title = response.xpath('//h1/text()').get()
         countries = response.xpath('//td/a')
 

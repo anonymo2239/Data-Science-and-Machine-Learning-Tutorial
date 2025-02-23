@@ -8,12 +8,13 @@ import time
 chromedriver_autoinstaller.install()
 driver = webdriver.Chrome()
 driver.get("https://www.adamchoi.co.uk/overs/detailed")
+driver.maximize_window()
 
 all_matches = driver.find_element(By.XPATH, "//label[@analytics-event='All matches']")
 all_matches.click()
 
 dropdown = Select(driver.find_element(By.ID, "country"))
-dropdown.select_by_visible_text('Turkey')
+dropdown.select_by_visible_text('Spain')
 time.sleep(2)
 
 matches = driver.find_elements(By.TAG_NAME, "tr")
@@ -34,7 +35,7 @@ for match in matches:
         away = match.find_element(By.XPATH, "./td[5]").text
         away_team.append(away)
 
-matchesFrame = pd.DataFrame({'Tarih': date, 'Ev Sahibi Takım': home_team, 'Maç Sonucu': score, 'Konuk Takım': away_team})
+matchesFrame = pd.DataFrame({'Date': date, 'Home Team': home_team, 'Result': score, 'Away Team': away_team})
 matchesFrame.to_csv('football_data.csv', index=False)
 print(matchesFrame)
 

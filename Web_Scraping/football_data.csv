@@ -1,413 +1,491 @@
-Tarih,Ev Sahibi Takım,Maç Sonucu,Konuk Takım
-10-08-2024,Fenerbahce,1 - 0,Adana Demirspor
-17-08-2024,Adana Demirspor,1 - 2,Rizespor
-25-08-2024,Kasimpasa,2 - 2,Adana Demirspor
-31-08-2024,Adana Demirspor,1 - 5,Galatasaray
-16-09-2024,Antalyaspor,2 - 1,Adana Demirspor
-22-09-2024,Adana Demirspor,0 - 2,Alanyaspor
-29-09-2024,Bodrumspor,3 - 1,Adana Demirspor
-06-10-2024,Adana Demirspor,1 - 3,Samsunspor
-25-10-2024,Adana Demirspor,2 - 4,Sivasspor
-02-11-2024,Kayserispor,0 - 0,Adana Demirspor
-09-11-2024,Adana Demirspor,0 - 1,Eyüpspor
-25-11-2024,Trabzonspor,5 - 0,Adana Demirspor
-30-11-2024,Adana Demirspor,0 - 1,Konyaspor
-07-12-2024,Göztepe AŞ,3 - 1,Adana Demirspor
-16-12-2024,Adana Demirspor,2 - 1,Besiktas
-23-12-2024,Hatayspor,1 - 3,Adana Demirspor
-04-01-2025,Adana Demirspor,0 - 1,Buyuksehyr
-12-01-2025,Gaziantep F.K.,1 - 0,Adana Demirspor
-19-01-2025,Adana Demirspor,0 - 4,Fenerbahce
-26-01-2025,Rizespor,3 - 2,Adana Demirspor
-02-02-2025,Adana Demirspor,3 - 5,Kasimpasa
-11-08-2024,Alanyaspor,1 - 1,Eyüpspor
-18-08-2024,Buyuksehyr,4 - 2,Alanyaspor
-23-08-2024,Alanyaspor,1 - 1,Göztepe AŞ
-30-08-2024,Fenerbahce,3 - 0,Alanyaspor
-15-09-2024,Alanyaspor,0 - 0,Hatayspor
-22-09-2024,Adana Demirspor,0 - 2,Alanyaspor
-28-09-2024,Alanyaspor,1 - 0,Rizespor
-06-10-2024,Galatasaray,1 - 0,Alanyaspor
-20-10-2024,Alanyaspor,1 - 2,Kasimpasa
-27-10-2024,Alanyaspor,1 - 2,Antalyaspor
-03-11-2024,Bodrumspor,0 - 0,Alanyaspor
-24-11-2024,Samsunspor,1 - 1,Alanyaspor
-30-11-2024,Alanyaspor,2 - 1,Trabzonspor
-08-12-2024,Kayserispor,2 - 0,Alanyaspor
-14-12-2024,Alanyaspor,3 - 0,Gaziantep F.K.
-21-12-2024,Besiktas,1 - 1,Alanyaspor
-03-01-2025,Alanyaspor,2 - 1,Konyaspor
-12-01-2025,Sivasspor,1 - 1,Alanyaspor
-19-01-2025,Eyüpspor,3 - 0,Alanyaspor
-25-01-2025,Alanyaspor,5 - 4,Buyuksehyr
-02-02-2025,Göztepe AŞ,0 - 1,Alanyaspor
-09-02-2025,Alanyaspor,0 - 2,Fenerbahce
-10-08-2024,Antalyaspor,0 - 0,Göztepe AŞ
-18-08-2024,Besiktas,4 - 2,Antalyaspor
-25-08-2024,Antalyaspor,3 - 2,Hatayspor
-01-09-2024,Buyuksehyr,5 - 2,Antalyaspor
-16-09-2024,Antalyaspor,2 - 1,Adana Demirspor
-22-09-2024,Kasimpasa,0 - 0,Antalyaspor
-29-09-2024,Antalyaspor,0 - 2,Fenerbahce
-04-10-2024,Rizespor,2 - 1,Antalyaspor
-19-10-2024,Antalyaspor,0 - 3,Galatasaray
-27-10-2024,Alanyaspor,1 - 2,Antalyaspor
-04-11-2024,Samsunspor,2 - 0,Antalyaspor
-09-11-2024,Antalyaspor,3 - 2,Bodrumspor
-29-11-2024,Antalyaspor,2 - 1,Sivasspor
-07-12-2024,Konyaspor,1 - 1,Antalyaspor
-15-12-2024,Antalyaspor,2 - 0,Kayserispor
-22-12-2024,Gaziantep F.K.,2 - 0,Antalyaspor
-04-01-2025,Antalyaspor,1 - 4,Eyüpspor
-12-01-2025,Trabzonspor,5 - 0,Antalyaspor
-19-01-2025,Göztepe AŞ,1 - 0,Antalyaspor
-26-01-2025,Antalyaspor,1 - 1,Besiktas
-01-02-2025,Hatayspor,2 - 3,Antalyaspor
-09-02-2025,Antalyaspor,0 - 0,Buyuksehyr
-11-08-2024,Samsunspor,0 - 2,Besiktas
-18-08-2024,Besiktas,4 - 2,Antalyaspor
-01-09-2024,Besiktas,2 - 0,Sivasspor
-15-09-2024,Trabzonspor,1 - 1,Besiktas
-22-09-2024,Besiktas,2 - 1,Eyüpspor
-30-09-2024,Kayserispor,0 - 3,Besiktas
-06-10-2024,Gaziantep F.K.,1 - 1,Besiktas
-20-10-2024,Besiktas,2 - 0,Konyaspor
-28-10-2024,Galatasaray,2 - 1,Besiktas
-02-11-2024,Besiktas,1 - 3,Kasimpasa
-10-11-2024,Buyuksehyr,0 - 0,Besiktas
-24-11-2024,Besiktas,2 - 4,Göztepe AŞ
-02-12-2024,Hatayspor,1 - 1,Besiktas
-07-12-2024,Besiktas,1 - 0,Fenerbahce
-16-12-2024,Adana Demirspor,2 - 1,Besiktas
-21-12-2024,Besiktas,1 - 1,Alanyaspor
-03-01-2025,Rizespor,1 - 1,Besiktas
-11-01-2025,Besiktas,2 - 1,Bodrumspor
-18-01-2025,Besiktas,0 - 0,Samsunspor
-26-01-2025,Antalyaspor,1 - 1,Besiktas
-08-02-2025,Sivasspor,0 - 2,Besiktas
-12-08-2024,Bodrumspor,0 - 1,Gaziantep F.K.
-19-08-2024,Eyüpspor,4 - 1,Bodrumspor
-24-08-2024,Bodrumspor,3 - 1,Konyaspor
-31-08-2024,Göztepe AŞ,2 - 0,Bodrumspor
-14-09-2024,Bodrumspor,0 - 1,Buyuksehyr
-20-09-2024,Hatayspor,0 - 1,Bodrumspor
-29-09-2024,Bodrumspor,3 - 1,Adana Demirspor
-05-10-2024,Kasimpasa,0 - 0,Bodrumspor
-21-10-2024,Bodrumspor,0 - 1,Rizespor
-27-10-2024,Fenerbahce,2 - 0,Bodrumspor
-03-11-2024,Bodrumspor,0 - 0,Alanyaspor
-09-11-2024,Antalyaspor,3 - 2,Bodrumspor
-23-11-2024,Bodrumspor,0 - 1,Galatasaray
-30-11-2024,Samsunspor,4 - 0,Bodrumspor
-13-12-2024,Bodrumspor,2 - 0,Sivasspor
-22-12-2024,Trabzonspor,1 - 0,Bodrumspor
-05-01-2025,Bodrumspor,1 - 1,Kayserispor
-11-01-2025,Besiktas,2 - 1,Bodrumspor
-18-01-2025,Gaziantep F.K.,0 - 0,Bodrumspor
-26-01-2025,Bodrumspor,0 - 1,Eyüpspor
-31-01-2025,Konyaspor,3 - 1,Bodrumspor
-10-02-2025,Bodrumspor,0 - 0,Göztepe AŞ
-12-08-2024,Rizespor,1 - 1,Buyuksehyr
-18-08-2024,Buyuksehyr,4 - 2,Alanyaspor
-01-09-2024,Buyuksehyr,5 - 2,Antalyaspor
-14-09-2024,Bodrumspor,0 - 1,Buyuksehyr
-18-09-2024,Samsunspor,2 - 0,Buyuksehyr
-27-09-2024,Sivasspor,1 - 2,Buyuksehyr
-05-10-2024,Buyuksehyr,1 - 1,Kayserispor
-19-10-2024,Trabzonspor,1 - 0,Buyuksehyr
-28-10-2024,Buyuksehyr,1 - 1,Eyüpspor
-03-11-2024,Konyaspor,3 - 2,Buyuksehyr
-10-11-2024,Buyuksehyr,0 - 0,Besiktas
-23-11-2024,Gaziantep F.K.,3 - 0,Buyuksehyr
-30-11-2024,Buyuksehyr,4 - 1,Göztepe AŞ
-08-12-2024,Buyuksehyr,3 - 0,Hatayspor
-15-12-2024,Fenerbahce,3 - 1,Buyuksehyr
-23-12-2024,Buyuksehyr,2 - 2,Kasimpasa
-04-01-2025,Adana Demirspor,0 - 1,Buyuksehyr
-12-01-2025,Buyuksehyr,1 - 2,Galatasaray
-18-01-2025,Buyuksehyr,2 - 0,Rizespor
-25-01-2025,Alanyaspor,5 - 4,Buyuksehyr
-01-02-2025,Buyuksehyr,4 - 0,Samsunspor
-09-02-2025,Antalyaspor,0 - 0,Buyuksehyr
-11-08-2024,Alanyaspor,1 - 1,Eyüpspor
-19-08-2024,Eyüpspor,4 - 1,Bodrumspor
-24-08-2024,Sivasspor,0 - 1,Eyüpspor
-01-09-2024,Eyüpspor,0 - 0,Trabzonspor
-15-09-2024,Kayserispor,2 - 2,Eyüpspor
-22-09-2024,Besiktas,2 - 1,Eyüpspor
-29-09-2024,Eyüpspor,3 - 2,Gaziantep F.K.
-06-10-2024,Konyaspor,2 - 1,Eyüpspor
-19-10-2024,Eyüpspor,1 - 0,Göztepe AŞ
-28-10-2024,Buyuksehyr,1 - 1,Eyüpspor
-03-11-2024,Eyüpspor,2 - 0,Hatayspor
-09-11-2024,Adana Demirspor,0 - 1,Eyüpspor
-23-11-2024,Eyüpspor,1 - 2,Rizespor
-01-12-2024,Galatasaray,2 - 2,Eyüpspor
-08-12-2024,Eyüpspor,3 - 0,Samsunspor
-13-12-2024,Kasimpasa,2 - 0,Eyüpspor
-20-12-2024,Eyüpspor,1 - 1,Fenerbahce
-04-01-2025,Antalyaspor,1 - 4,Eyüpspor
-19-01-2025,Eyüpspor,3 - 0,Alanyaspor
-26-01-2025,Bodrumspor,0 - 1,Eyüpspor
-31-01-2025,Eyüpspor,1 - 0,Sivasspor
-10-02-2025,Trabzonspor,1 - 0,Eyüpspor
-10-08-2024,Fenerbahce,1 - 0,Adana Demirspor
-17-08-2024,Göztepe AŞ,2 - 2,Fenerbahce
-25-08-2024,Rizespor,0 - 5,Fenerbahce
-30-08-2024,Fenerbahce,3 - 0,Alanyaspor
-15-09-2024,Kasimpasa,0 - 2,Fenerbahce
-21-09-2024,Fenerbahce,1 - 3,Galatasaray
-29-09-2024,Antalyaspor,0 - 2,Fenerbahce
-20-10-2024,Samsunspor,2 - 2,Fenerbahce
-27-10-2024,Fenerbahce,2 - 0,Bodrumspor
-03-11-2024,Trabzonspor,2 - 3,Fenerbahce
-10-11-2024,Fenerbahce,4 - 0,Sivasspor
-23-11-2024,Kayserispor,2 - 6,Fenerbahce
-02-12-2024,Fenerbahce,3 - 1,Gaziantep F.K.
-07-12-2024,Besiktas,1 - 0,Fenerbahce
-15-12-2024,Fenerbahce,3 - 1,Buyuksehyr
-20-12-2024,Eyüpspor,1 - 1,Fenerbahce
-05-01-2025,Fenerbahce,2 - 1,Hatayspor
-13-01-2025,Konyaspor,2 - 3,Fenerbahce
-19-01-2025,Adana Demirspor,0 - 4,Fenerbahce
-26-01-2025,Fenerbahce,3 - 2,Göztepe AŞ
-02-02-2025,Fenerbahce,3 - 2,Rizespor
-09-02-2025,Alanyaspor,0 - 2,Fenerbahce
-09-08-2024,Galatasaray,2 - 1,Hatayspor
-16-08-2024,Konyaspor,1 - 2,Galatasaray
-31-08-2024,Adana Demirspor,1 - 5,Galatasaray
-14-09-2024,Galatasaray,5 - 0,Rizespor
-17-09-2024,Galatasaray,3 - 1,Gaziantep F.K.
-21-09-2024,Fenerbahce,1 - 3,Galatasaray
-28-09-2024,Galatasaray,3 - 3,Kasimpasa
-06-10-2024,Galatasaray,1 - 0,Alanyaspor
-19-10-2024,Antalyaspor,0 - 3,Galatasaray
-28-10-2024,Galatasaray,2 - 1,Besiktas
-10-11-2024,Galatasaray,3 - 2,Samsunspor
-23-11-2024,Bodrumspor,0 - 1,Galatasaray
-01-12-2024,Galatasaray,2 - 2,Eyüpspor
-08-12-2024,Sivasspor,2 - 3,Galatasaray
-16-12-2024,Galatasaray,4 - 3,Trabzonspor
-22-12-2024,Kayserispor,1 - 5,Galatasaray
-04-01-2025,Galatasaray,2 - 1,Göztepe AŞ
-12-01-2025,Buyuksehyr,1 - 2,Galatasaray
-17-01-2025,Hatayspor,1 - 1,Galatasaray
-25-01-2025,Galatasaray,1 - 0,Konyaspor
-03-02-2025,Gaziantep F.K.,0 - 1,Galatasaray
-12-08-2024,Bodrumspor,0 - 1,Gaziantep F.K.
-18-08-2024,Gaziantep F.K.,0 - 1,Samsunspor
-14-09-2024,Sivasspor,3 - 2,Gaziantep F.K.
-17-09-2024,Galatasaray,3 - 1,Gaziantep F.K.
-23-09-2024,Gaziantep F.K.,0 - 0,Trabzonspor
-29-09-2024,Eyüpspor,3 - 2,Gaziantep F.K.
-06-10-2024,Gaziantep F.K.,1 - 1,Besiktas
-19-10-2024,Kayserispor,2 - 2,Gaziantep F.K.
-27-10-2024,Gaziantep F.K.,3 - 1,Konyaspor
-01-11-2024,Gaziantep F.K.,2 - 1,Göztepe AŞ
-09-11-2024,Hatayspor,3 - 1,Gaziantep F.K.
-23-11-2024,Gaziantep F.K.,3 - 0,Buyuksehyr
-02-12-2024,Fenerbahce,3 - 1,Gaziantep F.K.
-09-12-2024,Gaziantep F.K.,1 - 0,Rizespor
-14-12-2024,Alanyaspor,3 - 0,Gaziantep F.K.
-22-12-2024,Gaziantep F.K.,2 - 0,Antalyaspor
-05-01-2025,Kasimpasa,2 - 2,Gaziantep F.K.
-12-01-2025,Gaziantep F.K.,1 - 0,Adana Demirspor
-18-01-2025,Gaziantep F.K.,0 - 0,Bodrumspor
-24-01-2025,Samsunspor,2 - 1,Gaziantep F.K.
-03-02-2025,Gaziantep F.K.,0 - 1,Galatasaray
-10-08-2024,Antalyaspor,0 - 0,Göztepe AŞ
-17-08-2024,Göztepe AŞ,2 - 2,Fenerbahce
-23-08-2024,Alanyaspor,1 - 1,Göztepe AŞ
-31-08-2024,Göztepe AŞ,2 - 0,Bodrumspor
-23-09-2024,Göztepe AŞ,3 - 0,Kayserispor
-28-09-2024,Samsunspor,4 - 3,Göztepe AŞ
-05-10-2024,Göztepe AŞ,3 - 2,Sivasspor
-19-10-2024,Eyüpspor,1 - 0,Göztepe AŞ
-26-10-2024,Göztepe AŞ,2 - 1,Trabzonspor
-01-11-2024,Gaziantep F.K.,2 - 1,Göztepe AŞ
-10-11-2024,Göztepe AŞ,2 - 0,Konyaspor
-24-11-2024,Besiktas,2 - 4,Göztepe AŞ
-30-11-2024,Buyuksehyr,4 - 1,Göztepe AŞ
-07-12-2024,Göztepe AŞ,3 - 1,Adana Demirspor
-15-12-2024,Hatayspor,1 - 1,Göztepe AŞ
-22-12-2024,Göztepe AŞ,3 - 0,Rizespor
-04-01-2025,Galatasaray,2 - 1,Göztepe AŞ
-13-01-2025,Göztepe AŞ,5 - 0,Kasimpasa
-19-01-2025,Göztepe AŞ,1 - 0,Antalyaspor
-26-01-2025,Fenerbahce,3 - 2,Göztepe AŞ
-02-02-2025,Göztepe AŞ,0 - 1,Alanyaspor
-10-02-2025,Bodrumspor,0 - 0,Göztepe AŞ
-09-08-2024,Galatasaray,2 - 1,Hatayspor
-19-08-2024,Hatayspor,1 - 1,Kasimpasa
-25-08-2024,Antalyaspor,3 - 2,Hatayspor
-01-09-2024,Hatayspor,0 - 3,Samsunspor
-15-09-2024,Alanyaspor,0 - 0,Hatayspor
-20-09-2024,Hatayspor,0 - 1,Bodrumspor
-05-10-2024,Hatayspor,1 - 1,Trabzonspor
-20-10-2024,Sivasspor,3 - 2,Hatayspor
-26-10-2024,Hatayspor,0 - 1,Kayserispor
-03-11-2024,Eyüpspor,2 - 0,Hatayspor
-09-11-2024,Hatayspor,3 - 1,Gaziantep F.K.
-24-11-2024,Konyaspor,1 - 1,Hatayspor
-02-12-2024,Hatayspor,1 - 1,Besiktas
-08-12-2024,Buyuksehyr,3 - 0,Hatayspor
-15-12-2024,Hatayspor,1 - 1,Göztepe AŞ
-23-12-2024,Hatayspor,1 - 3,Adana Demirspor
-05-01-2025,Fenerbahce,2 - 1,Hatayspor
-11-01-2025,Hatayspor,1 - 2,Rizespor
-17-01-2025,Hatayspor,1 - 1,Galatasaray
-27-01-2025,Kasimpasa,5 - 4,Hatayspor
-01-02-2025,Hatayspor,2 - 3,Antalyaspor
-07-02-2025,Samsunspor,2 - 0,Hatayspor
-10-08-2024,Kasimpasa,2 - 3,Konyaspor
-19-08-2024,Hatayspor,1 - 1,Kasimpasa
-25-08-2024,Kasimpasa,2 - 2,Adana Demirspor
-31-08-2024,Rizespor,0 - 1,Kasimpasa
-15-09-2024,Kasimpasa,0 - 2,Fenerbahce
-22-09-2024,Kasimpasa,0 - 0,Antalyaspor
-28-09-2024,Galatasaray,3 - 3,Kasimpasa
-05-10-2024,Kasimpasa,0 - 0,Bodrumspor
-20-10-2024,Alanyaspor,1 - 2,Kasimpasa
-26-10-2024,Kasimpasa,1 - 4,Samsunspor
-02-11-2024,Besiktas,1 - 3,Kasimpasa
-08-11-2024,Kasimpasa,1 - 2,Kayserispor
-24-11-2024,Sivasspor,0 - 0,Kasimpasa
-06-12-2024,Trabzonspor,2 - 2,Kasimpasa
-13-12-2024,Kasimpasa,2 - 0,Eyüpspor
-23-12-2024,Buyuksehyr,2 - 2,Kasimpasa
-05-01-2025,Kasimpasa,2 - 2,Gaziantep F.K.
-13-01-2025,Göztepe AŞ,5 - 0,Kasimpasa
-19-01-2025,Konyaspor,3 - 3,Kasimpasa
-27-01-2025,Kasimpasa,5 - 4,Hatayspor
-02-02-2025,Adana Demirspor,3 - 5,Kasimpasa
-09-02-2025,Kasimpasa,3 - 2,Rizespor
-17-08-2024,Kayserispor,1 - 2,Sivasspor
-31-08-2024,Konyaspor,0 - 0,Kayserispor
-15-09-2024,Kayserispor,2 - 2,Eyüpspor
-19-09-2024,Trabzonspor,2 - 2,Kayserispor
-23-09-2024,Göztepe AŞ,3 - 0,Kayserispor
-30-09-2024,Kayserispor,0 - 3,Besiktas
-05-10-2024,Buyuksehyr,1 - 1,Kayserispor
-19-10-2024,Kayserispor,2 - 2,Gaziantep F.K.
-26-10-2024,Hatayspor,0 - 1,Kayserispor
-02-11-2024,Kayserispor,0 - 0,Adana Demirspor
-08-11-2024,Kasimpasa,1 - 2,Kayserispor
-23-11-2024,Kayserispor,2 - 6,Fenerbahce
-01-12-2024,Rizespor,3 - 0,Kayserispor
-08-12-2024,Kayserispor,2 - 0,Alanyaspor
-15-12-2024,Antalyaspor,2 - 0,Kayserispor
-22-12-2024,Kayserispor,1 - 5,Galatasaray
-05-01-2025,Bodrumspor,1 - 1,Kayserispor
-11-01-2025,Kayserispor,0 - 1,Samsunspor
-25-01-2025,Sivasspor,5 - 2,Kayserispor
-01-02-2025,Kayserispor,0 - 0,Trabzonspor
-08-02-2025,Kayserispor,3 - 2,Konyaspor
-10-08-2024,Kasimpasa,2 - 3,Konyaspor
-16-08-2024,Konyaspor,1 - 2,Galatasaray
-24-08-2024,Bodrumspor,3 - 1,Konyaspor
-31-08-2024,Konyaspor,0 - 0,Kayserispor
-14-09-2024,Samsunspor,0 - 1,Konyaspor
-21-09-2024,Konyaspor,0 - 0,Sivasspor
-29-09-2024,Trabzonspor,3 - 2,Konyaspor
-06-10-2024,Konyaspor,2 - 1,Eyüpspor
-20-10-2024,Besiktas,2 - 0,Konyaspor
-27-10-2024,Gaziantep F.K.,3 - 1,Konyaspor
-03-11-2024,Konyaspor,3 - 2,Buyuksehyr
-10-11-2024,Göztepe AŞ,2 - 0,Konyaspor
-24-11-2024,Konyaspor,1 - 1,Hatayspor
-30-11-2024,Adana Demirspor,0 - 1,Konyaspor
-07-12-2024,Konyaspor,1 - 1,Antalyaspor
-14-12-2024,Rizespor,1 - 1,Konyaspor
-03-01-2025,Alanyaspor,2 - 1,Konyaspor
-13-01-2025,Konyaspor,2 - 3,Fenerbahce
-19-01-2025,Konyaspor,3 - 3,Kasimpasa
-25-01-2025,Galatasaray,1 - 0,Konyaspor
-31-01-2025,Konyaspor,3 - 1,Bodrumspor
-08-02-2025,Kayserispor,3 - 2,Konyaspor
-12-08-2024,Rizespor,1 - 1,Buyuksehyr
-17-08-2024,Adana Demirspor,1 - 2,Rizespor
-25-08-2024,Rizespor,0 - 5,Fenerbahce
-31-08-2024,Rizespor,0 - 1,Kasimpasa
-14-09-2024,Galatasaray,5 - 0,Rizespor
-22-09-2024,Rizespor,0 - 1,Samsunspor
-28-09-2024,Alanyaspor,1 - 0,Rizespor
-04-10-2024,Rizespor,2 - 1,Antalyaspor
-21-10-2024,Bodrumspor,0 - 1,Rizespor
-02-11-2024,Sivasspor,2 - 1,Rizespor
-09-11-2024,Rizespor,3 - 1,Trabzonspor
-23-11-2024,Eyüpspor,1 - 2,Rizespor
-01-12-2024,Rizespor,3 - 0,Kayserispor
-09-12-2024,Gaziantep F.K.,1 - 0,Rizespor
-14-12-2024,Rizespor,1 - 1,Konyaspor
-22-12-2024,Göztepe AŞ,3 - 0,Rizespor
-03-01-2025,Rizespor,1 - 1,Besiktas
-11-01-2025,Hatayspor,1 - 2,Rizespor
-18-01-2025,Buyuksehyr,2 - 0,Rizespor
-26-01-2025,Rizespor,3 - 2,Adana Demirspor
-02-02-2025,Fenerbahce,3 - 2,Rizespor
-09-02-2025,Kasimpasa,3 - 2,Rizespor
-11-08-2024,Samsunspor,0 - 2,Besiktas
-18-08-2024,Gaziantep F.K.,0 - 1,Samsunspor
-01-09-2024,Hatayspor,0 - 3,Samsunspor
-14-09-2024,Samsunspor,0 - 1,Konyaspor
-18-09-2024,Samsunspor,2 - 0,Buyuksehyr
-22-09-2024,Rizespor,0 - 1,Samsunspor
-28-09-2024,Samsunspor,4 - 3,Göztepe AŞ
-06-10-2024,Adana Demirspor,1 - 3,Samsunspor
-20-10-2024,Samsunspor,2 - 2,Fenerbahce
-26-10-2024,Kasimpasa,1 - 4,Samsunspor
-04-11-2024,Samsunspor,2 - 0,Antalyaspor
-10-11-2024,Galatasaray,3 - 2,Samsunspor
-24-11-2024,Samsunspor,1 - 1,Alanyaspor
-30-11-2024,Samsunspor,4 - 0,Bodrumspor
-08-12-2024,Eyüpspor,3 - 0,Samsunspor
-21-12-2024,Sivasspor,0 - 0,Samsunspor
-04-01-2025,Samsunspor,2 - 1,Trabzonspor
-11-01-2025,Kayserispor,0 - 1,Samsunspor
-18-01-2025,Besiktas,0 - 0,Samsunspor
-24-01-2025,Samsunspor,2 - 1,Gaziantep F.K.
-01-02-2025,Buyuksehyr,4 - 0,Samsunspor
-07-02-2025,Samsunspor,2 - 0,Hatayspor
-11-08-2024,Sivasspor,0 - 0,Trabzonspor
-17-08-2024,Kayserispor,1 - 2,Sivasspor
-24-08-2024,Sivasspor,0 - 1,Eyüpspor
-01-09-2024,Besiktas,2 - 0,Sivasspor
-14-09-2024,Sivasspor,3 - 2,Gaziantep F.K.
-21-09-2024,Konyaspor,0 - 0,Sivasspor
-27-09-2024,Sivasspor,1 - 2,Buyuksehyr
-05-10-2024,Göztepe AŞ,3 - 2,Sivasspor
-20-10-2024,Sivasspor,3 - 2,Hatayspor
-25-10-2024,Adana Demirspor,2 - 4,Sivasspor
-02-11-2024,Sivasspor,2 - 1,Rizespor
-10-11-2024,Fenerbahce,4 - 0,Sivasspor
-24-11-2024,Sivasspor,0 - 0,Kasimpasa
-29-11-2024,Antalyaspor,2 - 1,Sivasspor
-08-12-2024,Sivasspor,2 - 3,Galatasaray
-13-12-2024,Bodrumspor,2 - 0,Sivasspor
-21-12-2024,Sivasspor,0 - 0,Samsunspor
-12-01-2025,Sivasspor,1 - 1,Alanyaspor
-20-01-2025,Trabzonspor,4 - 0,Sivasspor
-25-01-2025,Sivasspor,5 - 2,Kayserispor
-31-01-2025,Eyüpspor,1 - 0,Sivasspor
-08-02-2025,Sivasspor,0 - 2,Besiktas
-11-08-2024,Sivasspor,0 - 0,Trabzonspor
-01-09-2024,Eyüpspor,0 - 0,Trabzonspor
-15-09-2024,Trabzonspor,1 - 1,Besiktas
-19-09-2024,Trabzonspor,2 - 2,Kayserispor
-23-09-2024,Gaziantep F.K.,0 - 0,Trabzonspor
-29-09-2024,Trabzonspor,3 - 2,Konyaspor
-05-10-2024,Hatayspor,1 - 1,Trabzonspor
-19-10-2024,Trabzonspor,1 - 0,Buyuksehyr
-26-10-2024,Göztepe AŞ,2 - 1,Trabzonspor
-03-11-2024,Trabzonspor,2 - 3,Fenerbahce
-09-11-2024,Rizespor,3 - 1,Trabzonspor
-25-11-2024,Trabzonspor,5 - 0,Adana Demirspor
-30-11-2024,Alanyaspor,2 - 1,Trabzonspor
-06-12-2024,Trabzonspor,2 - 2,Kasimpasa
-16-12-2024,Galatasaray,4 - 3,Trabzonspor
-22-12-2024,Trabzonspor,1 - 0,Bodrumspor
-04-01-2025,Samsunspor,2 - 1,Trabzonspor
-12-01-2025,Trabzonspor,5 - 0,Antalyaspor
-20-01-2025,Trabzonspor,4 - 0,Sivasspor
-01-02-2025,Kayserispor,0 - 0,Trabzonspor
-10-02-2025,Trabzonspor,1 - 0,Eyüpspor
+Date,Home Team,Result,Away Team
+16-08-2024,Celta,2 - 1,Alaves
+25-08-2024,Alaves,0 - 0,Betis
+28-08-2024,Sociedad,1 - 2,Alaves
+01-09-2024,Alaves,2 - 0,Las Palmas
+14-09-2024,Espanol,3 - 2,Alaves
+20-09-2024,Alaves,2 - 1,Sevilla
+24-09-2024,Real Madrid,3 - 2,Alaves
+28-09-2024,Getafe,2 - 0,Alaves
+06-10-2024,Alaves,0 - 3,FC Barcelona
+18-10-2024,Alaves,2 - 3,Valladolid
+26-10-2024,Vallecano,1 - 0,Alaves
+01-11-2024,Alaves,1 - 0,Mallorca
+09-11-2024,Villarreal,3 - 0,Alaves
+23-11-2024,Ath Madrid,2 - 1,Alaves
+30-11-2024,Alaves,1 - 1,Leganes
+08-12-2024,Osasuna,2 - 2,Alaves
+15-12-2024,Alaves,1 - 1,Ath Bilbao
+22-12-2024,Valencia,2 - 2,Alaves
+11-01-2025,Alaves,0 - 1,Girona
+18-01-2025,Betis,1 - 3,Alaves
+27-01-2025,Alaves,1 - 1,Celta
+02-02-2025,FC Barcelona,1 - 0,Alaves
+09-02-2025,Alaves,0 - 1,Getafe
+15-02-2025,Leganes,3 - 3,Alaves
+22-02-2025,Alaves,0 - 1,Espanol
+15-08-2024,Ath Bilbao,1 - 1,Getafe
+24-08-2024,FC Barcelona,2 - 1,Ath Bilbao
+28-08-2024,Ath Bilbao,1 - 0,Valencia
+31-08-2024,Ath Bilbao,0 - 1,Ath Madrid
+15-09-2024,Las Palmas,2 - 3,Ath Bilbao
+19-09-2024,Leganes,0 - 2,Ath Bilbao
+22-09-2024,Ath Bilbao,3 - 1,Celta
+29-09-2024,Ath Bilbao,1 - 1,Sevilla
+06-10-2024,Girona,2 - 1,Ath Bilbao
+19-10-2024,Ath Bilbao,4 - 1,Espanol
+28-10-2024,Mallorca,0 - 0,Ath Bilbao
+03-11-2024,Ath Bilbao,1 - 1,Betis
+10-11-2024,Valladolid,1 - 1,Ath Bilbao
+24-11-2024,Ath Bilbao,1 - 0,Sociedad
+01-12-2024,Vallecano,1 - 2,Ath Bilbao
+04-12-2024,Ath Bilbao,2 - 1,Real Madrid
+08-12-2024,Ath Bilbao,2 - 0,Villarreal
+15-12-2024,Alaves,1 - 1,Ath Bilbao
+21-12-2024,Osasuna,1 - 2,Ath Bilbao
+19-01-2025,Celta,1 - 2,Ath Bilbao
+26-01-2025,Ath Bilbao,0 - 0,Leganes
+02-02-2025,Betis,2 - 2,Ath Bilbao
+08-02-2025,Ath Bilbao,3 - 0,Girona
+16-02-2025,Espanol,1 - 1,Ath Bilbao
+19-08-2024,Villarreal,2 - 2,Ath Madrid
+25-08-2024,Ath Madrid,3 - 0,Girona
+28-08-2024,Ath Madrid,0 - 0,Espanol
+31-08-2024,Ath Bilbao,0 - 1,Ath Madrid
+15-09-2024,Ath Madrid,3 - 0,Valencia
+22-09-2024,Vallecano,1 - 1,Ath Madrid
+26-09-2024,Celta,0 - 1,Ath Madrid
+29-09-2024,Ath Madrid,1 - 1,Real Madrid
+06-10-2024,Sociedad,1 - 1,Ath Madrid
+20-10-2024,Ath Madrid,3 - 1,Leganes
+27-10-2024,Betis,1 - 0,Ath Madrid
+03-11-2024,Ath Madrid,2 - 0,Las Palmas
+10-11-2024,Mallorca,0 - 1,Ath Madrid
+23-11-2024,Ath Madrid,2 - 1,Alaves
+30-11-2024,Valladolid,0 - 5,Ath Madrid
+08-12-2024,Ath Madrid,4 - 3,Sevilla
+15-12-2024,Ath Madrid,1 - 0,Getafe
+21-12-2024,FC Barcelona,1 - 2,Ath Madrid
+12-01-2025,Ath Madrid,1 - 0,Osasuna
+18-01-2025,Leganes,1 - 0,Ath Madrid
+25-01-2025,Ath Madrid,1 - 1,Villarreal
+01-02-2025,Ath Madrid,2 - 0,Mallorca
+08-02-2025,Real Madrid,1 - 1,Ath Madrid
+15-02-2025,Ath Madrid,1 - 1,Celta
+22-02-2025,Valencia,0 - 3,Ath Madrid
+15-08-2024,Betis,1 - 1,Girona
+25-08-2024,Alaves,0 - 0,Betis
+01-09-2024,Real Madrid,2 - 0,Betis
+13-09-2024,Betis,2 - 0,Leganes
+18-09-2024,Betis,2 - 1,Getafe
+23-09-2024,Betis,1 - 2,Mallorca
+26-09-2024,Las Palmas,1 - 1,Betis
+29-09-2024,Betis,1 - 0,Espanol
+06-10-2024,Sevilla,1 - 0,Betis
+19-10-2024,Osasuna,1 - 2,Betis
+27-10-2024,Betis,1 - 0,Ath Madrid
+03-11-2024,Ath Bilbao,1 - 1,Betis
+10-11-2024,Betis,2 - 2,Celta
+23-11-2024,Valencia,4 - 2,Betis
+01-12-2024,Sociedad,2 - 0,Betis
+07-12-2024,Betis,2 - 2,FC Barcelona
+15-12-2024,Villarreal,1 - 2,Betis
+22-12-2024,Betis,1 - 1,Vallecano
+11-01-2025,Valladolid,1 - 0,Betis
+18-01-2025,Betis,1 - 3,Alaves
+25-01-2025,Mallorca,0 - 1,Betis
+02-02-2025,Betis,2 - 2,Ath Bilbao
+08-02-2025,Celta,3 - 2,Betis
+16-02-2025,Betis,3 - 0,Sociedad
+16-08-2024,Celta,2 - 1,Alaves
+23-08-2024,Celta,3 - 1,Valencia
+26-08-2024,Villarreal,4 - 3,Celta
+01-09-2024,Osasuna,3 - 2,Celta
+15-09-2024,Celta,3 - 1,Valladolid
+22-09-2024,Ath Bilbao,3 - 1,Celta
+26-09-2024,Celta,0 - 1,Ath Madrid
+29-09-2024,Celta,1 - 1,Girona
+05-10-2024,Las Palmas,0 - 1,Celta
+19-10-2024,Celta,1 - 2,Real Madrid
+27-10-2024,Leganes,3 - 0,Celta
+04-11-2024,Celta,1 - 0,Getafe
+10-11-2024,Betis,2 - 2,Celta
+23-11-2024,Celta,2 - 2,FC Barcelona
+30-11-2024,Espanol,3 - 1,Celta
+06-12-2024,Celta,2 - 0,Mallorca
+14-12-2024,Sevilla,1 - 0,Celta
+21-12-2024,Celta,2 - 0,Sociedad
+10-01-2025,Vallecano,2 - 1,Celta
+19-01-2025,Celta,1 - 2,Ath Bilbao
+27-01-2025,Alaves,1 - 1,Celta
+02-02-2025,Valencia,2 - 1,Celta
+08-02-2025,Celta,3 - 2,Betis
+15-02-2025,Ath Madrid,1 - 1,Celta
+21-02-2025,Celta,1 - 0,Osasuna
+19-08-2024,Valladolid,1 - 0,Espanol
+24-08-2024,Espanol,0 - 1,Sociedad
+28-08-2024,Ath Madrid,0 - 0,Espanol
+31-08-2024,Espanol,2 - 1,Vallecano
+14-09-2024,Espanol,3 - 2,Alaves
+21-09-2024,Real Madrid,4 - 1,Espanol
+26-09-2024,Espanol,1 - 2,Villarreal
+29-09-2024,Betis,1 - 0,Espanol
+05-10-2024,Espanol,2 - 1,Mallorca
+19-10-2024,Ath Bilbao,4 - 1,Espanol
+25-10-2024,Espanol,0 - 2,Sevilla
+03-11-2024,FC Barcelona,3 - 1,Espanol
+23-11-2024,Girona,4 - 1,Espanol
+30-11-2024,Espanol,3 - 1,Celta
+09-12-2024,Getafe,1 - 0,Espanol
+14-12-2024,Espanol,0 - 0,Osasuna
+18-12-2024,Espanol,1 - 1,Valencia
+22-12-2024,Las Palmas,1 - 0,Espanol
+11-01-2025,Espanol,1 - 1,Leganes
+17-01-2025,Espanol,2 - 1,Valladolid
+25-01-2025,Sevilla,1 - 1,Espanol
+01-02-2025,Espanol,1 - 0,Real Madrid
+09-02-2025,Sociedad,2 - 1,Espanol
+16-02-2025,Espanol,1 - 1,Ath Bilbao
+22-02-2025,Alaves,0 - 1,Espanol
+17-08-2024,Valencia,1 - 2,FC Barcelona
+24-08-2024,FC Barcelona,2 - 1,Ath Bilbao
+27-08-2024,Vallecano,1 - 2,FC Barcelona
+31-08-2024,FC Barcelona,7 - 0,Valladolid
+15-09-2024,Girona,1 - 4,FC Barcelona
+22-09-2024,Villarreal,1 - 5,FC Barcelona
+25-09-2024,FC Barcelona,1 - 0,Getafe
+28-09-2024,Osasuna,4 - 2,FC Barcelona
+06-10-2024,Alaves,0 - 3,FC Barcelona
+20-10-2024,FC Barcelona,5 - 1,Sevilla
+26-10-2024,Real Madrid,0 - 4,FC Barcelona
+03-11-2024,FC Barcelona,3 - 1,Espanol
+10-11-2024,Sociedad,1 - 0,FC Barcelona
+23-11-2024,Celta,2 - 2,FC Barcelona
+30-11-2024,FC Barcelona,1 - 2,Las Palmas
+03-12-2024,Mallorca,1 - 5,FC Barcelona
+07-12-2024,Betis,2 - 2,FC Barcelona
+15-12-2024,FC Barcelona,0 - 1,Leganes
+21-12-2024,FC Barcelona,1 - 2,Ath Madrid
+18-01-2025,Getafe,1 - 1,FC Barcelona
+26-01-2025,FC Barcelona,7 - 1,Valencia
+02-02-2025,FC Barcelona,1 - 0,Alaves
+09-02-2025,Sevilla,1 - 4,FC Barcelona
+17-02-2025,FC Barcelona,1 - 0,Vallecano
+22-02-2025,Las Palmas,0 - 2,FC Barcelona
+15-08-2024,Ath Bilbao,1 - 1,Getafe
+24-08-2024,Getafe,0 - 0,Vallecano
+01-09-2024,Getafe,0 - 0,Sociedad
+14-09-2024,Sevilla,1 - 0,Getafe
+18-09-2024,Betis,2 - 1,Getafe
+22-09-2024,Getafe,1 - 1,Leganes
+25-09-2024,FC Barcelona,1 - 0,Getafe
+28-09-2024,Getafe,2 - 0,Alaves
+05-10-2024,Getafe,1 - 1,Osasuna
+20-10-2024,Villarreal,1 - 1,Getafe
+27-10-2024,Getafe,1 - 1,Valencia
+04-11-2024,Celta,1 - 0,Getafe
+10-11-2024,Getafe,0 - 1,Girona
+22-11-2024,Getafe,2 - 0,Valladolid
+01-12-2024,Real Madrid,2 - 0,Getafe
+09-12-2024,Getafe,1 - 0,Espanol
+15-12-2024,Ath Madrid,1 - 0,Getafe
+21-12-2024,Getafe,0 - 1,Mallorca
+12-01-2025,Las Palmas,1 - 2,Getafe
+18-01-2025,Getafe,1 - 1,FC Barcelona
+26-01-2025,Sociedad,0 - 3,Getafe
+01-02-2025,Getafe,0 - 0,Sevilla
+09-02-2025,Alaves,0 - 1,Getafe
+14-02-2025,Girona,1 - 2,Getafe
+15-08-2024,Betis,1 - 1,Girona
+25-08-2024,Ath Madrid,3 - 0,Girona
+29-08-2024,Girona,4 - 0,Osasuna
+01-09-2024,Sevilla,0 - 2,Girona
+15-09-2024,Girona,1 - 4,FC Barcelona
+21-09-2024,Valencia,2 - 0,Girona
+25-09-2024,Girona,0 - 0,Vallecano
+29-09-2024,Celta,1 - 1,Girona
+06-10-2024,Girona,2 - 1,Ath Bilbao
+19-10-2024,Girona,0 - 1,Sociedad
+26-10-2024,Las Palmas,1 - 0,Girona
+02-11-2024,Girona,4 - 3,Leganes
+10-11-2024,Getafe,0 - 1,Girona
+23-11-2024,Girona,4 - 1,Espanol
+01-12-2024,Villarreal,2 - 2,Girona
+07-12-2024,Girona,0 - 3,Real Madrid
+14-12-2024,Mallorca,2 - 1,Girona
+20-12-2024,Girona,3 - 0,Valladolid
+11-01-2025,Alaves,0 - 1,Girona
+18-01-2025,Girona,1 - 2,Sevilla
+26-01-2025,Vallecano,2 - 1,Girona
+03-02-2025,Girona,2 - 1,Las Palmas
+08-02-2025,Ath Bilbao,3 - 0,Girona
+14-02-2025,Girona,1 - 2,Getafe
+16-08-2024,Las Palmas,2 - 2,Sevilla
+25-08-2024,Leganes,2 - 1,Las Palmas
+29-08-2024,Las Palmas,1 - 1,Real Madrid
+01-09-2024,Alaves,2 - 0,Las Palmas
+15-09-2024,Las Palmas,2 - 3,Ath Bilbao
+21-09-2024,Osasuna,2 - 1,Las Palmas
+26-09-2024,Las Palmas,1 - 1,Betis
+30-09-2024,Villarreal,3 - 1,Las Palmas
+05-10-2024,Las Palmas,0 - 1,Celta
+21-10-2024,Valencia,2 - 3,Las Palmas
+26-10-2024,Las Palmas,1 - 0,Girona
+03-11-2024,Ath Madrid,2 - 0,Las Palmas
+08-11-2024,Vallecano,1 - 3,Las Palmas
+23-11-2024,Las Palmas,2 - 3,Mallorca
+30-11-2024,FC Barcelona,1 - 2,Las Palmas
+07-12-2024,Las Palmas,2 - 1,Valladolid
+15-12-2024,Sociedad,0 - 0,Las Palmas
+22-12-2024,Las Palmas,1 - 0,Espanol
+12-01-2025,Las Palmas,1 - 2,Getafe
+19-01-2025,Real Madrid,4 - 1,Las Palmas
+24-01-2025,Las Palmas,1 - 1,Osasuna
+03-02-2025,Girona,2 - 1,Las Palmas
+08-02-2025,Las Palmas,1 - 2,Villarreal
+16-02-2025,Mallorca,3 - 1,Las Palmas
+22-02-2025,Las Palmas,0 - 2,FC Barcelona
+17-08-2024,Osasuna,1 - 1,Leganes
+25-08-2024,Leganes,2 - 1,Las Palmas
+28-08-2024,Valladolid,0 - 0,Leganes
+31-08-2024,Leganes,0 - 1,Mallorca
+13-09-2024,Betis,2 - 0,Leganes
+19-09-2024,Leganes,0 - 2,Ath Bilbao
+22-09-2024,Getafe,1 - 1,Leganes
+28-09-2024,Vallecano,1 - 1,Leganes
+04-10-2024,Leganes,0 - 0,Valencia
+20-10-2024,Ath Madrid,3 - 1,Leganes
+27-10-2024,Leganes,3 - 0,Celta
+02-11-2024,Girona,4 - 3,Leganes
+09-11-2024,Leganes,1 - 0,Sevilla
+24-11-2024,Leganes,0 - 3,Real Madrid
+30-11-2024,Alaves,1 - 1,Leganes
+08-12-2024,Leganes,0 - 3,Sociedad
+15-12-2024,FC Barcelona,0 - 1,Leganes
+22-12-2024,Leganes,2 - 5,Villarreal
+11-01-2025,Espanol,1 - 1,Leganes
+18-01-2025,Leganes,1 - 0,Ath Madrid
+26-01-2025,Ath Bilbao,0 - 0,Leganes
+31-01-2025,Leganes,0 - 1,Vallecano
+09-02-2025,Valencia,2 - 0,Leganes
+15-02-2025,Leganes,3 - 3,Alaves
+18-08-2024,Mallorca,1 - 1,Real Madrid
+24-08-2024,Osasuna,1 - 0,Mallorca
+27-08-2024,Mallorca,0 - 0,Sevilla
+31-08-2024,Leganes,0 - 1,Mallorca
+14-09-2024,Mallorca,1 - 2,Villarreal
+17-09-2024,Mallorca,1 - 0,Sociedad
+23-09-2024,Betis,1 - 2,Mallorca
+27-09-2024,Valladolid,1 - 2,Mallorca
+05-10-2024,Espanol,2 - 1,Mallorca
+20-10-2024,Mallorca,1 - 0,Vallecano
+28-10-2024,Mallorca,0 - 0,Ath Bilbao
+01-11-2024,Alaves,1 - 0,Mallorca
+10-11-2024,Mallorca,0 - 1,Ath Madrid
+23-11-2024,Las Palmas,2 - 3,Mallorca
+29-11-2024,Mallorca,2 - 1,Valencia
+03-12-2024,Mallorca,1 - 5,FC Barcelona
+06-12-2024,Celta,2 - 0,Mallorca
+14-12-2024,Mallorca,2 - 1,Girona
+21-12-2024,Getafe,0 - 1,Mallorca
+20-01-2025,Villarreal,4 - 0,Mallorca
+25-01-2025,Mallorca,0 - 1,Betis
+01-02-2025,Ath Madrid,2 - 0,Mallorca
+10-02-2025,Mallorca,1 - 1,Osasuna
+16-02-2025,Mallorca,3 - 1,Las Palmas
+17-08-2024,Osasuna,1 - 1,Leganes
+24-08-2024,Osasuna,1 - 0,Mallorca
+29-08-2024,Girona,4 - 0,Osasuna
+01-09-2024,Osasuna,3 - 2,Celta
+16-09-2024,Vallecano,3 - 1,Osasuna
+21-09-2024,Osasuna,2 - 1,Las Palmas
+24-09-2024,Valencia,0 - 0,Osasuna
+28-09-2024,Osasuna,4 - 2,FC Barcelona
+05-10-2024,Getafe,1 - 1,Osasuna
+19-10-2024,Osasuna,1 - 2,Betis
+27-10-2024,Sociedad,0 - 2,Osasuna
+02-11-2024,Osasuna,1 - 0,Valladolid
+09-11-2024,Real Madrid,4 - 0,Osasuna
+24-11-2024,Osasuna,2 - 2,Villarreal
+02-12-2024,Sevilla,1 - 1,Osasuna
+08-12-2024,Osasuna,2 - 2,Alaves
+14-12-2024,Espanol,0 - 0,Osasuna
+21-12-2024,Osasuna,1 - 2,Ath Bilbao
+12-01-2025,Ath Madrid,1 - 0,Osasuna
+19-01-2025,Osasuna,1 - 1,Vallecano
+24-01-2025,Las Palmas,1 - 1,Osasuna
+02-02-2025,Osasuna,2 - 1,Sociedad
+10-02-2025,Mallorca,1 - 1,Osasuna
+15-02-2025,Osasuna,1 - 1,Real Madrid
+21-02-2025,Celta,1 - 0,Osasuna
+18-08-2024,Mallorca,1 - 1,Real Madrid
+25-08-2024,Real Madrid,3 - 0,Valladolid
+29-08-2024,Las Palmas,1 - 1,Real Madrid
+01-09-2024,Real Madrid,2 - 0,Betis
+14-09-2024,Sociedad,0 - 2,Real Madrid
+21-09-2024,Real Madrid,4 - 1,Espanol
+24-09-2024,Real Madrid,3 - 2,Alaves
+29-09-2024,Ath Madrid,1 - 1,Real Madrid
+05-10-2024,Real Madrid,2 - 0,Villarreal
+19-10-2024,Celta,1 - 2,Real Madrid
+26-10-2024,Real Madrid,0 - 4,FC Barcelona
+09-11-2024,Real Madrid,4 - 0,Osasuna
+24-11-2024,Leganes,0 - 3,Real Madrid
+01-12-2024,Real Madrid,2 - 0,Getafe
+04-12-2024,Ath Bilbao,2 - 1,Real Madrid
+07-12-2024,Girona,0 - 3,Real Madrid
+14-12-2024,Vallecano,3 - 3,Real Madrid
+22-12-2024,Real Madrid,4 - 2,Sevilla
+03-01-2025,Valencia,1 - 2,Real Madrid
+19-01-2025,Real Madrid,4 - 1,Las Palmas
+25-01-2025,Valladolid,0 - 3,Real Madrid
+01-02-2025,Espanol,1 - 0,Real Madrid
+08-02-2025,Real Madrid,1 - 1,Ath Madrid
+15-02-2025,Osasuna,1 - 1,Real Madrid
+16-08-2024,Las Palmas,2 - 2,Sevilla
+23-08-2024,Sevilla,1 - 2,Villarreal
+27-08-2024,Mallorca,0 - 0,Sevilla
+01-09-2024,Sevilla,0 - 2,Girona
+14-09-2024,Sevilla,1 - 0,Getafe
+20-09-2024,Alaves,2 - 1,Sevilla
+24-09-2024,Sevilla,2 - 1,Valladolid
+29-09-2024,Ath Bilbao,1 - 1,Sevilla
+06-10-2024,Sevilla,1 - 0,Betis
+20-10-2024,FC Barcelona,5 - 1,Sevilla
+25-10-2024,Espanol,0 - 2,Sevilla
+03-11-2024,Sevilla,0 - 2,Sociedad
+09-11-2024,Leganes,1 - 0,Sevilla
+24-11-2024,Sevilla,1 - 0,Vallecano
+02-12-2024,Sevilla,1 - 1,Osasuna
+08-12-2024,Ath Madrid,4 - 3,Sevilla
+14-12-2024,Sevilla,1 - 0,Celta
+22-12-2024,Real Madrid,4 - 2,Sevilla
+11-01-2025,Sevilla,1 - 1,Valencia
+18-01-2025,Girona,1 - 2,Sevilla
+25-01-2025,Sevilla,1 - 1,Espanol
+01-02-2025,Getafe,0 - 0,Sevilla
+09-02-2025,Sevilla,1 - 4,FC Barcelona
+16-02-2025,Valladolid,0 - 4,Sevilla
+18-08-2024,Sociedad,1 - 2,Vallecano
+24-08-2024,Espanol,0 - 1,Sociedad
+28-08-2024,Sociedad,1 - 2,Alaves
+01-09-2024,Getafe,0 - 0,Sociedad
+14-09-2024,Sociedad,0 - 2,Real Madrid
+17-09-2024,Mallorca,1 - 0,Sociedad
+21-09-2024,Valladolid,0 - 0,Sociedad
+28-09-2024,Sociedad,3 - 0,Valencia
+06-10-2024,Sociedad,1 - 1,Ath Madrid
+19-10-2024,Girona,0 - 1,Sociedad
+27-10-2024,Sociedad,0 - 2,Osasuna
+03-11-2024,Sevilla,0 - 2,Sociedad
+10-11-2024,Sociedad,1 - 0,FC Barcelona
+24-11-2024,Ath Bilbao,1 - 0,Sociedad
+01-12-2024,Sociedad,2 - 0,Betis
+08-12-2024,Leganes,0 - 3,Sociedad
+15-12-2024,Sociedad,0 - 0,Las Palmas
+21-12-2024,Celta,2 - 0,Sociedad
+13-01-2025,Sociedad,1 - 0,Villarreal
+19-01-2025,Valencia,1 - 0,Sociedad
+26-01-2025,Sociedad,0 - 3,Getafe
+02-02-2025,Osasuna,2 - 1,Sociedad
+09-02-2025,Sociedad,2 - 1,Espanol
+16-02-2025,Betis,3 - 0,Sociedad
+17-08-2024,Valencia,1 - 2,FC Barcelona
+23-08-2024,Celta,3 - 1,Valencia
+28-08-2024,Ath Bilbao,1 - 0,Valencia
+31-08-2024,Valencia,1 - 1,Villarreal
+15-09-2024,Ath Madrid,3 - 0,Valencia
+21-09-2024,Valencia,2 - 0,Girona
+24-09-2024,Valencia,0 - 0,Osasuna
+28-09-2024,Sociedad,3 - 0,Valencia
+04-10-2024,Leganes,0 - 0,Valencia
+21-10-2024,Valencia,2 - 3,Las Palmas
+27-10-2024,Getafe,1 - 1,Valencia
+23-11-2024,Valencia,4 - 2,Betis
+29-11-2024,Mallorca,2 - 1,Valencia
+07-12-2024,Valencia,0 - 1,Vallecano
+13-12-2024,Valladolid,1 - 0,Valencia
+18-12-2024,Espanol,1 - 1,Valencia
+22-12-2024,Valencia,2 - 2,Alaves
+03-01-2025,Valencia,1 - 2,Real Madrid
+11-01-2025,Sevilla,1 - 1,Valencia
+19-01-2025,Valencia,1 - 0,Sociedad
+26-01-2025,FC Barcelona,7 - 1,Valencia
+02-02-2025,Valencia,2 - 1,Celta
+09-02-2025,Valencia,2 - 0,Leganes
+15-02-2025,Villarreal,1 - 1,Valencia
+22-02-2025,Valencia,0 - 3,Ath Madrid
+19-08-2024,Valladolid,1 - 0,Espanol
+25-08-2024,Real Madrid,3 - 0,Valladolid
+28-08-2024,Valladolid,0 - 0,Leganes
+31-08-2024,FC Barcelona,7 - 0,Valladolid
+15-09-2024,Celta,3 - 1,Valladolid
+21-09-2024,Valladolid,0 - 0,Sociedad
+24-09-2024,Sevilla,2 - 1,Valladolid
+27-09-2024,Valladolid,1 - 2,Mallorca
+05-10-2024,Valladolid,1 - 2,Vallecano
+18-10-2024,Alaves,2 - 3,Valladolid
+26-10-2024,Valladolid,1 - 2,Villarreal
+02-11-2024,Osasuna,1 - 0,Valladolid
+10-11-2024,Valladolid,1 - 1,Ath Bilbao
+22-11-2024,Getafe,2 - 0,Valladolid
+30-11-2024,Valladolid,0 - 5,Ath Madrid
+07-12-2024,Las Palmas,2 - 1,Valladolid
+13-12-2024,Valladolid,1 - 0,Valencia
+20-12-2024,Girona,3 - 0,Valladolid
+11-01-2025,Valladolid,1 - 0,Betis
+17-01-2025,Espanol,2 - 1,Valladolid
+25-01-2025,Valladolid,0 - 3,Real Madrid
+01-02-2025,Villarreal,5 - 1,Valladolid
+07-02-2025,Vallecano,1 - 0,Valladolid
+16-02-2025,Valladolid,0 - 4,Sevilla
+18-08-2024,Sociedad,1 - 2,Vallecano
+24-08-2024,Getafe,0 - 0,Vallecano
+27-08-2024,Vallecano,1 - 2,FC Barcelona
+31-08-2024,Espanol,2 - 1,Vallecano
+16-09-2024,Vallecano,3 - 1,Osasuna
+22-09-2024,Vallecano,1 - 1,Ath Madrid
+25-09-2024,Girona,0 - 0,Vallecano
+28-09-2024,Vallecano,1 - 1,Leganes
+05-10-2024,Valladolid,1 - 2,Vallecano
+20-10-2024,Mallorca,1 - 0,Vallecano
+26-10-2024,Vallecano,1 - 0,Alaves
+08-11-2024,Vallecano,1 - 3,Las Palmas
+24-11-2024,Sevilla,1 - 0,Vallecano
+01-12-2024,Vallecano,1 - 2,Ath Bilbao
+07-12-2024,Valencia,0 - 1,Vallecano
+14-12-2024,Vallecano,3 - 3,Real Madrid
+18-12-2024,Villarreal,1 - 1,Vallecano
+22-12-2024,Betis,1 - 1,Vallecano
+10-01-2025,Vallecano,2 - 1,Celta
+19-01-2025,Osasuna,1 - 1,Vallecano
+26-01-2025,Vallecano,2 - 1,Girona
+31-01-2025,Leganes,0 - 1,Vallecano
+07-02-2025,Vallecano,1 - 0,Valladolid
+17-02-2025,FC Barcelona,1 - 0,Vallecano
+22-02-2025,Vallecano,0 - 1,Villarreal
+19-08-2024,Villarreal,2 - 2,Ath Madrid
+23-08-2024,Sevilla,1 - 2,Villarreal
+26-08-2024,Villarreal,4 - 3,Celta
+31-08-2024,Valencia,1 - 1,Villarreal
+14-09-2024,Mallorca,1 - 2,Villarreal
+22-09-2024,Villarreal,1 - 5,FC Barcelona
+26-09-2024,Espanol,1 - 2,Villarreal
+30-09-2024,Villarreal,3 - 1,Las Palmas
+05-10-2024,Real Madrid,2 - 0,Villarreal
+20-10-2024,Villarreal,1 - 1,Getafe
+26-10-2024,Valladolid,1 - 2,Villarreal
+09-11-2024,Villarreal,3 - 0,Alaves
+24-11-2024,Osasuna,2 - 2,Villarreal
+01-12-2024,Villarreal,2 - 2,Girona
+08-12-2024,Ath Bilbao,2 - 0,Villarreal
+15-12-2024,Villarreal,1 - 2,Betis
+18-12-2024,Villarreal,1 - 1,Vallecano
+22-12-2024,Leganes,2 - 5,Villarreal
+13-01-2025,Sociedad,1 - 0,Villarreal
+20-01-2025,Villarreal,4 - 0,Mallorca
+25-01-2025,Ath Madrid,1 - 1,Villarreal
+01-02-2025,Villarreal,5 - 1,Valladolid
+08-02-2025,Las Palmas,1 - 2,Villarreal
+15-02-2025,Villarreal,1 - 1,Valencia
+22-02-2025,Vallecano,0 - 1,Villarreal

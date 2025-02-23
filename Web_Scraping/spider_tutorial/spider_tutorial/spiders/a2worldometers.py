@@ -26,7 +26,8 @@ class A2worldometersSpider(scrapy.Spider):
             # ucuncu yol
             yield response.follow(url=link, callback=self.parse_country, meta={'country': country_name})
 
-    def parse_country(self, response):  # parse_country fonksiyonunu ayırmanın nedeni, her ülkenin sayfasını ayrı bir fonksiyonla işlemenizi sağlamaktır.
+    def parse_country(self, response):  # parse_country fonksiyonunu ayırmanın nedeni, her ülkenin sayfasını ayrı bir
+        # fonksiyonla işlemenizi sağlamaktır.
         country = response.request.meta['country']
         # response.xpath('(//table[@class="table table-striped table-bordered table-'
         #               'hover table-condensed table-list"])[1]/tbody/tr')
